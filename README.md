@@ -53,18 +53,18 @@
 
 <div class="portfolio-box">
 
-    <!-- Drawing 1 -->
+     <!-- Drawing 1 -->
     <figure>
-      <a href="highres-drawing1.jpg" target="_blank">
-            <img src="../OneDrive/Documents/Unnamed Site 2/Self-Portrait Movie Poster (1).png" alt="Drawing 1">
+        <a href="images/alley-poster-full.png" target="_blank">
+            <img src="file:///C|/Users/User 1/OneDrive/Pictures/Self-Portrait Movie Poster (1).png" alt="The Alley Movie Poster">
         </a>
         <figcaption>The Alley Movie Poster</figcaption>
     </figure>
 
     <!-- Drawing 2 -->
     <figure>
-        <a href="highres-drawing2.jpg" target="_blank">
-        <img src="Tour Poster Rough Draft copy.png" alt="Drawing 2">
+        <a href="images/springers-tour-full.png" target="_blank">
+            <img src="file:///C|/Users/User 1/OneDrive/Pictures/Tour Poster Rough Draft copy.png" alt="Springers World Tour Poster">
         </a>
         <figcaption>The Springers World Tour Poster</figcaption>
     </figure>
