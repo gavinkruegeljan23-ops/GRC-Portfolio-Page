@@ -55,24 +55,25 @@
 
     <!-- Drawing 1 -->
     <figure>
-        <a href="images/alley-full.png" target="_blank">
-            <img src="images/alley-thumb.png" alt="The Alley Movie Poster">
+      <a href="highres-drawing1.jpg" target="_blank">
+            <img src="../OneDrive/Documents/Unnamed Site 2/Self-Portrait Movie Poster (1).png" alt="Drawing 1">
         </a>
         <figcaption>The Alley Movie Poster</figcaption>
     </figure>
 
     <!-- Drawing 2 -->
     <figure>
-        <a href="images/tour-full.png" target="_blank">
-            <img src="images/tour-thumb.png" alt="Springers World Tour Poster">
+        <a href="highres-drawing2.jpg" target="_blank">
+        <img src="Tour Poster Rough Draft copy.png" alt="Drawing 2">
         </a>
         <figcaption>The Springers World Tour Poster</figcaption>
     </figure>
 
     <!-- Drawing 3 -->
-    <figure>
-        <a href="images/self-full.jpg" target="_blank">
-            <img src="images/self-thumb.jpg" alt="Self Portrait Illustrator">
+  <figure>
+        <a href="highres-drawing3.jpg" target="_blank">
+        <img src="Self Portrait Illustrator.JPG" alt="Drawing 3">
         </a>
         <figcaption>Self Drawing on Illustrator</figcaption>
     </figure>
+
