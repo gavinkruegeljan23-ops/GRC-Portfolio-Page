@@ -59,6 +59,7 @@
         </a>
         <figcaption>The Alley Movie Poster</figcaption>
     </figure>
+    
     <!-- Drawing 2 -->
     <figure>
         <a href="images/springers-tour-full.png" target="_blank">
@@ -66,7 +67,7 @@
         </a>
         <figcaption>The Springers World Tour Poster</figcaption>
     </figure>
-
+    
     <!-- Drawing 3 -->
   <figure>
         <a href="highres-drawing3.jpg" target="_blank">
