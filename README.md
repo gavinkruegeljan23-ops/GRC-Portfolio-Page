@@ -52,7 +52,6 @@
 <h1>My Portfolio</h1>
 
 <div class="portfolio-box">
-
      <!-- Drawing 1 -->
     <figure>
         <a href="images/alley-poster-full.png" target="_blank">
@@ -60,7 +59,6 @@
         </a>
         <figcaption>The Alley Movie Poster</figcaption>
     </figure>
-
     <!-- Drawing 2 -->
     <figure>
         <a href="images/springers-tour-full.png" target="_blank">
